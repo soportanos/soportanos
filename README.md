@@ -1,11 +1,11 @@
 ## 👨‍💻 About Me
 Hi! I'm **Ruben La Torre**, a passionate **Full Stack Developer** with almost **4 years** of experience in software development.  
-I love building **efficient, scalable, and innovative** solutions using **.NET and React**.
+I love building **efficient, scalable, and innovative** solutions using **.NET,Java and React**.
 
 ### 🔥 What I Do  
-- 🚀 **Backend Development** with **.NET Core**  
+- 🚀 **Backend Development** with **.NET Core**  and **Spring Boot** 
 - 🎨 **Frontend Development** using **React, HTML, CSS, JavaScript & Bootstrap**  
-- 🛢️ **Database Management** with **SQL Server & PostgreSQL**  
+- 🛢️ **Database Management** with **SQL Server and PostgreSQL & Oracle**  
 - 🌍 **API Development** (**REST & SOAP**)  
 - 📌 **Agile & Version Control** (**Scrum, Git**)  
 
