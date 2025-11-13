@@ -43,7 +43,7 @@ I love building **efficient, scalable, and innovative** solutions using **.NET,J
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/soportanos/soportanos/output/snake.svg" alt="Snake animation" height="100" />
+  <img src="https://github.com/soportanos/soportanos/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <img src="https://i.imgflip.com/9phiyt.jpg" alt="Meme" height="100" />
 </div>
 
